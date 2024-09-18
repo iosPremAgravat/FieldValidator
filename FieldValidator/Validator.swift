@@ -13,4 +13,8 @@ public struct Validator {
         let emailPred = NSPredicate(format: "SELF MATCHES %@", emailRegEx)
         return emailPred.evaluate(with: email)
     }
+    
+    public static func hello() {
+        print("Hello World")
+    }
 }
