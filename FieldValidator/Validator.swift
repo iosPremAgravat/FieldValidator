@@ -14,7 +14,8 @@ public struct Validator {
         return emailPred.evaluate(with: email)
     }
     
-    public static func hello() {
+    /// This is sample test
+    public static func testPrint() {
         print("Hello World")
     }
 }

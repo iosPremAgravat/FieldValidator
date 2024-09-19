@@ -15,6 +15,7 @@ class CustomeFrameWorkVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        Validator.testPrint()
         self.btnVerify.layer.cornerRadius = 5.0
         self.btnVerify.layer.borderWidth = 1
         self.btnVerify.layer.borderColor = UIColor.black.cgColor
