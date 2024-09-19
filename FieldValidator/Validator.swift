@@ -18,4 +18,8 @@ public struct Validator {
     public static func testPrint() {
         print("Hello World")
     }
+    
+    public static func testPrint2() {
+        print("Hello World")
+    }
 }

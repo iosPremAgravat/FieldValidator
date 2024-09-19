@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "FieldValidator"
-  spec.version      = "1.0.1"
+  spec.version      = "2.0.0"
   spec.summary      = "This is sample summary of FieldValidator"
   spec.description  = "This is sample discription of FieldValidator"
   spec.homepage     = "https://github.com/iosPremAgravat/FieldValidator"
