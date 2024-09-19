@@ -16,7 +16,7 @@ public struct Validator {
     
     /// This is sample test
     public static func testPrint() {
-        print("Hello World")
+        print("Hello World ascsdcds")
     }
     
     public static func testPrint2() {
